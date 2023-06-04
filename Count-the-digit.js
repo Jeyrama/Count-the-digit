@@ -18,6 +18,8 @@ Note that 121 has twice the digit 1.
 */
 
 
+// Solution
+
 function nbDig(n, d) {
   let res = 0;
   for (let g = 0; g <= n; g++) {
@@ -28,3 +30,4 @@ function nbDig(n, d) {
 }
 
 // or
+
