@@ -26,3 +26,5 @@ function nbDig(n, d) {
   } 
   return res;
 }
+
+// or
